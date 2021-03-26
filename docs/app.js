@@ -6,7 +6,7 @@ $(document).ready(function () {
 
     $(".fa-adjust").on("click", function (ev) {
         ev.preventDefault()
-        $("*").toggleClass("night-mode")
+        $(".header,.contacto").toggleClass("night-mode")
     })
 
     $("#boton-user,#botCerrar").click(function (ev) {
