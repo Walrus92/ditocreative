@@ -43,7 +43,7 @@ $(document).ready(function () {
             },
             {
                 src: 'dito.jpg',
-                srct: '/thumbnails/dito_t.jpg',
+                srct: 'dito.jpg',
                 title: 'Dito',
                 description: 'Dito and Dito'
             },
@@ -145,7 +145,7 @@ $(document).ready(function () {
             },
 
         ],
-        itemsBaseURL: '../media/',
+        //itemsBaseURL: '../media/',
         thumbnailDisplayTransition: 'scaleDown',
         thumbnailHoverEffect2: 'scale120'
     });
