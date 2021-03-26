@@ -145,7 +145,7 @@ $(document).ready(function () {
             },
 
         ],
-        itemsBaseURL: 'https://github.com/Walrus92/ditocreative/tree/main/media',
+        itemsBaseURL: 'https://github.com/Walrus92/ditocreative/tree/main/media/',
         thumbnailDisplayTransition: 'scaleDown',
         thumbnailHoverEffect2: 'scale120'
     });
