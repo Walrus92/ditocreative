@@ -145,7 +145,7 @@ $(document).ready(function () {
             },
 
         ],
-        itemsBaseURL: '../media/',
+        itemsBaseURL: '/media/',
         thumbnailDisplayTransition: 'scaleDown',
         thumbnailHoverEffect2: 'scale120'
     });
