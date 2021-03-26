@@ -49,7 +49,7 @@ $(document).ready(function () {
             },
             {
                 src: 'dito.jpg',
-                srct: '/thumbnails/dito_t.jpg',
+                srct: './thumbnails/dito_t.jpg',
                 title: 'Dito',
                 description: 'Dito and Dito'
             },
@@ -66,7 +66,7 @@ $(document).ready(function () {
                 description: 'Dito and Dito'
             },
             {
-                src: 'dito.jpg',
+                src: '/media/dito.jpg',
                 srct: '/thumbnails/dito_t.jpg',
                 title: 'Dito',
                 description: 'Dito and Dito'
